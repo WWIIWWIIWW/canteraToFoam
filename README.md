@@ -18,3 +18,6 @@ python ctToFoam.py -> convert 'cantera_save.csv' to variables in 0 folder (OF)
 [Kai Zhang, KTH, Royal Institute of Technology, Sweden](https://scholar.google.com/citations?user=lfUyemMAAAAJ&hl=en) - Google Scholar
 
 Email: kaizhang@kth.se; kai.zhang.1@city.ac.uk
+
+## Reference
+[JSqueo299 in GitHub - matlab converter](https://github.com/JSqueo299/Python/blob/main/Cantera/premixedFlames/Matlab2OF.m)
