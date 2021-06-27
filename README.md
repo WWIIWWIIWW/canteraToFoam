@@ -15,6 +15,6 @@ python ctToFoam.py -> convert 'cantera_save.csv' to variables in 0 folder (OF)
 4. Sample mechanism is a methanol mech.
 
 ## Author
-[Kai Zhang, KTH, Royal Institute of Technology, Sweden](https://www.https://scholar.google.com/citations?user=lfUyemMAAAAJ&hl=en) - Google Scholar
+[Kai Zhang, KTH, Royal Institute of Technology, Sweden](https://scholar.google.com/citations?user=lfUyemMAAAAJ&hl=en) - Google Scholar
 
 Email: kaizhang@kth.se; kai.zhang.1@city.ac.uk
