@@ -30,7 +30,7 @@ f.flame.set_transient_tolerances(default=tol_ts)
 f.set_refine_criteria(ratio=3, slope=0.01, curve=0.01)
 
 f.solve(loglevel=loglevel, refine_grid=refine_grid, auto=True)
-f.write_csv('cantera_save.csv', species='X')
+f.write_csv('cantera_save.csv', species='Y')
 
 
 
